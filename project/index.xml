@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Claude Raisaro</title>
+    <link>https://clauderaisaro.github.io/project/</link>
+      <atom:link href="https://clauderaisaro.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Theme edited by Claude Raisaro© - Want to have a similar website? [Guide here](https://matteocourthoud.github.io/post/website/).</copyright><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clauderaisaro.github.io/media/icon_hubf4873ed15ea6ed8e274b454b03c16bb_204399_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://clauderaisaro.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Incentives for Safety: Experimental Evidence from the Ugandan Transit Industry</title>
+      <link>https://clauderaisaro.github.io/project/project1/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Term Impacts of Preschool Education in Peru</title>
+      <link>https://clauderaisaro.github.io/project/project3/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farmers Data Ecosystem: A Field Experiment in Uganda</title>
+      <link>https://clauderaisaro.github.io/project/project4/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiring Women in Male-dominated Fields: Experimental Evidence from Urban Uganda</title>
+      <link>https://clauderaisaro.github.io/project/project2/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/project/project2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
