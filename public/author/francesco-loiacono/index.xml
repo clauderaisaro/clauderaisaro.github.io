@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Loiacono | CLAUDE RAISARO</title>
+    <link>https://clauderaisaro.github.io/author/francesco-loiacono/</link>
+      <atom:link href="https://clauderaisaro.github.io/author/francesco-loiacono/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Loiacono</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clauderaisaro.github.io/img/avatar.png</url>
+      <title>Francesco Loiacono</title>
+      <link>https://clauderaisaro.github.io/author/francesco-loiacono/</link>
+    </image>
+    
+    <item>
+      <title>Fair Trade, Unfair Competition: The Effect of Reducing Sales Uncertainty on Farmers’ Production</title>
+      <link>https://clauderaisaro.github.io/publication/fair-trade/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/publication/fair-trade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
