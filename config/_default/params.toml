@@ -17,7 +17,7 @@ theme = "minimal"
 color_theme = ""
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -282,7 +282,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-173974458-1"
+  google_analytics = "UA-144780600-1"
   #google_tag_manager = ""
 
 ############################

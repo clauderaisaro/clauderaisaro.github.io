@@ -50,18 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-Reach me out by email:
+Reach out to me by email:
 
     claude.raisaro@econ.uzh.ch
             
     claude.raisaro@hhs.se
     
 
-or in person:
+Office locations:
 
-    Univerisity of Zurich: office J06, Schönberggasse 1, Zurich, 8001 Switzerland 
-    
-    Stockholm School of Economics: office A886, Sveavägen 65, Stockholm, 11350 Sweden
+- Univerisity of Zurich - Department of Economics, office J06, Schönberggasse 1, Zurich, 8001 Switzerland 
+     
+- Stockholm School of Economics - Department of Economics, office A886, Sveavägen 65, Stockholm, 11350 Sweden
 
  
 

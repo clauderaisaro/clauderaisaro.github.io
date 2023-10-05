@@ -43,11 +43,11 @@ user_groups:
 
 I am a Postdoctoral Fellow in the Department of Economics at Stockholm School of Economic, affiliated to the Mistra Center for Sustainable Markets. I graduated with a PhD in Economics from the University of Zurich in summer 2023.
 
-I work at the intersection of behavioral and development economics. My research focuses on how social norms influence the functionning of markets. My job market paper examines the ability of monetary incentives to justify breaking harmful norms and its implications for the design of effective incentives. I am also interested in the economics of education and the redistribution effects of early childhood interventions.
+I work at the intersection of development and behavioral economics. My research focuses on how social norms influence the functioning of markets. My job market paper examines the ability of monetary incentives to justify breaking harmful norms and its implications for the design of effective incentives. I am also interested in the economics of education and the redistribution effects of early childhood interventions.
 
-I will be on the Job Market this fall as a candidate from the Department of Economics of the University of Zurich and Stockholm School of Economics. The job market paper is coming soon!
+I will be on the Job Market this fall as a candidate from the Department of Economics of the [University of Zurich](https://www.econ.uzh.ch/en/study/phd/zurichgse/jobmarketcandidates.html#Claude_Raisaro) and Stockholm School of Economics. The job market paper is coming soon!
 
-<a href="/files/cv_raisaro.pdf" class="btn btn-primary" download style="background-color: #FFFFFF; border: 2px solid #001F3F; color: #000000;">
+<a href="/files/cv_raisaro.pdf" class="btn btn-primary" download style="background-color: #D0A623; border: 2px solid #D0A623; color: #000000; font-size: 16px;">
   Download CV
 </a>
 
