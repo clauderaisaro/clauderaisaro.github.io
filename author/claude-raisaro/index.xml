@@ -5,7 +5,7 @@
     <link>https://clauderaisaro.github.io/author/claude-raisaro/</link>
       <atom:link href="https://clauderaisaro.github.io/author/claude-raisaro/index.xml" rel="self" type="application/rss+xml" />
     <description>Claude Raisaro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clauderaisaro.github.io/img/avatar.png</url>
       <title>Claude Raisaro</title>
@@ -13,24 +13,40 @@
     </image>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://clauderaisaro.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+      <title>Incentives Justifying Nonconformity: Experimental Evidence from Motortaxi Organizations in Uganda</title>
+      <link>https://clauderaisaro.github.io/publication/job-market-paper/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/publication/job-market-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Would you hire a female mechanic? Experimental evidence from motor-mechanics managers in Uganda</title>
+      <link>https://clauderaisaro.github.io/publication/girls-with-tools/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/publication/girls-with-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of a Preschool Expansion  on Early Learning Outcomes in Peru</title>
+      <link>https://clauderaisaro.github.io/publication/peru-prek/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/publication/peru-prek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Trade, Unfair Competition: The Effect of Reducing Sales Uncertainty on Farmers’ Production</title>
+      <link>https://clauderaisaro.github.io/publication/fair-trade/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://clauderaisaro.github.io/publication/fair-trade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
 cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
 jupyter lab index.ipynb
