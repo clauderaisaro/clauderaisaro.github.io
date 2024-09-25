@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +30,7 @@
   <meta name="description" content="Assistant Professor">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://clauderaisaro.github.io/category/%E6%95%99%E7%A8%8B/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:4321/category/%E6%95%99%E7%A8%8B/">
 
   
 
@@ -216,44 +216,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144780600-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-144780600-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -265,10 +227,10 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu4e2af440b47df3042a32cac372d284e8_18812_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu4e2af440b47df3042a32cac372d284e8_18812_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu12092490976284828044.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6920639647596606039.png">
 
-  <link rel="canonical" href="https://clauderaisaro.github.io/category/%E6%95%99%E7%A8%8B/">
+  <link rel="canonical" href="http://localhost:4321/category/%E6%95%99%E7%A8%8B/">
 
   
   
@@ -286,10 +248,10 @@
   <meta property="twitter:creator" content="@claude_raisaro">
   
   <meta property="og:site_name" content="CLAUDE RAISARO">
-  <meta property="og:url" content="https://clauderaisaro.github.io/category/%E6%95%99%E7%A8%8B/">
+  <meta property="og:url" content="http://localhost:4321/category/%E6%95%99%E7%A8%8B/">
   <meta property="og:title" content="教程 | CLAUDE RAISARO">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://clauderaisaro.github.io/img/avatar.png">
-  <meta property="twitter:image" content="https://clauderaisaro.github.io/img/avatar.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="http://localhost:4321/img/avatar.png">
+  <meta property="twitter:image" content="http://localhost:4321/img/avatar.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2016-04-20T00:00:00&#43;00:00">
   
@@ -656,6 +618,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">

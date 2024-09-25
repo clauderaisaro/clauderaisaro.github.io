@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开源 | CLAUDE RAISARO</title>
-    <link>https://clauderaisaro.github.io/tag/%E5%BC%80%E6%BA%90/</link>
-      <atom:link href="https://clauderaisaro.github.io/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</link>
+      <atom:link href="http://localhost:4321/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>开源</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clauderaisaro.github.io/img/avatar.png</url>
+      <url>http://localhost:4321/img/avatar.png</url>
       <title>开源</title>
-      <link>https://clauderaisaro.github.io/tag/%E5%BC%80%E6%BA%90/</link>
+      <link>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</link>
     </image>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://clauderaisaro.github.io/post/getting-started/</link>
+      <link>http://localhost:4321/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/post/getting-started/</guid>
+      <guid>http://localhost:4321/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -39,7 +39,7 @@
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;&amp;#x2764;&amp;#xfe0f; &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -49,7 +49,7 @@
 &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;&amp;#x1f469;&amp;zwj;&amp;#x1f4bb; 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

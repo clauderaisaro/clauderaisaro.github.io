@@ -2,112 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clauderaisaro.github.io/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/talk/example/</loc>
+    <loc>http://localhost:4321/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/talk/</loc>
+    <loc>http://localhost:4321/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication-type/0/</loc>
+    <loc>http://localhost:4321/publication-type/0/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/authors/</loc>
+    <loc>http://localhost:4321/authors/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/author/claude-raisaro/</loc>
+    <loc>http://localhost:4321/author/claude-raisaro/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication/job-market-paper/</loc>
+    <loc>http://localhost:4321/publication/job-market-paper/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/job-market-paper/</loc>
+    <loc>http://localhost:4321/tag/job-market-paper/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/author/elisa-macchi/</loc>
+    <loc>http://localhost:4321/author/elisa-macchi/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/ongoing-research/</loc>
+    <loc>http://localhost:4321/tag/ongoing-research/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication/girls-with-tools/</loc>
+    <loc>http://localhost:4321/publication/girls-with-tools/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/author/stephanie-majerowicz/</loc>
+    <loc>http://localhost:4321/author/stephanie-majerowicz/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication/peru-prek/</loc>
+    <loc>http://localhost:4321/publication/peru-prek/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/publication/fair-trade/</loc>
+    <loc>http://localhost:4321/publication/fair-trade/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/author/francesco-loiacono/</loc>
+    <loc>http://localhost:4321/author/francesco-loiacono/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/post/</loc>
+    <loc>http://localhost:4321/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/post/writing-technical-content/</loc>
+    <loc>http://localhost:4321/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/author/claude-raisaro/</loc>
+    <loc>http://localhost:4321/author/claude-raisaro/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/post/jupyter/</loc>
+    <loc>http://localhost:4321/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/slides/</loc>
+    <loc>http://localhost:4321/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/slides/example/</loc>
+    <loc>http://localhost:4321/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/academic/</loc>
+    <loc>http://localhost:4321/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/post/getting-started/</loc>
+    <loc>http://localhost:4321/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/category/demo/</loc>
+    <loc>http://localhost:4321/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>http://localhost:4321/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:4321/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>http://localhost:4321/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/plot/</loc>
+    <loc>http://localhost:4321/tag/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/category/r/</loc>
+    <loc>http://localhost:4321/category/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/r-markdown/</loc>
+    <loc>http://localhost:4321/tag/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://clauderaisaro.github.io/tag/regression/</loc>
+    <loc>http://localhost:4321/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
 </urlset>

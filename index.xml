@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CLAUDE RAISARO</title>
-    <link>https://clauderaisaro.github.io/</link>
-      <atom:link href="https://clauderaisaro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/</link>
+      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <description>CLAUDE RAISARO</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clauderaisaro.github.io/img/avatar.png</url>
+      <url>http://localhost:4321/img/avatar.png</url>
       <title>CLAUDE RAISARO</title>
-      <link>https://clauderaisaro.github.io/</link>
+      <link>http://localhost:4321/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://clauderaisaro.github.io/talk/example/</link>
+      <link>http://localhost:4321/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/talk/example/</guid>
+      <guid>http://localhost:4321/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -36,41 +36,41 @@
     
     <item>
       <title>Incentives Justifying Nonconformity: Experimental Evidence from Motortaxi Organizations in Uganda</title>
-      <link>https://clauderaisaro.github.io/publication/job-market-paper/</link>
+      <link>http://localhost:4321/publication/job-market-paper/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/publication/job-market-paper/</guid>
+      <guid>http://localhost:4321/publication/job-market-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Would you hire a female mechanic? Experimental evidence from motor-mechanics managers in Uganda</title>
-      <link>https://clauderaisaro.github.io/publication/girls-with-tools/</link>
+      <link>http://localhost:4321/publication/girls-with-tools/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/publication/girls-with-tools/</guid>
+      <guid>http://localhost:4321/publication/girls-with-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of a Preschool Expansion  on Early Learning Outcomes in Peru</title>
-      <link>https://clauderaisaro.github.io/publication/peru-prek/</link>
+      <link>http://localhost:4321/publication/peru-prek/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/publication/peru-prek/</guid>
+      <guid>http://localhost:4321/publication/peru-prek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fair Trade, Unfair Competition: The Effect of Reducing Sales Uncertainty on Farmers’ Production</title>
-      <link>https://clauderaisaro.github.io/publication/fair-trade/</link>
+      <link>http://localhost:4321/publication/fair-trade/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/publication/fair-trade/</guid>
+      <guid>http://localhost:4321/publication/fair-trade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://clauderaisaro.github.io/post/writing-technical-content/</link>
+      <link>http://localhost:4321/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/post/writing-technical-content/</guid>
+      <guid>http://localhost:4321/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -250,22 +250,22 @@ Crash --&amp;gt; [*]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;First Header&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Second Header&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Content Cell&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Content Cell&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Content Cell&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Content Cell&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
 &lt;p&gt;Academic supports a 
@@ -321,13 +321,13 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://clauderaisaro.github.io/post/jupyter/</link>
+      <link>http://localhost:4321/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/post/jupyter/</guid>
+      <guid>http://localhost:4321/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;http://localhost:4321/post/jupyter/index_1_0.png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
@@ -371,9 +371,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://clauderaisaro.github.io/slides/example/</link>
+      <link>http://localhost:4321/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/slides/example/</guid>
+      <guid>http://localhost:4321/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -504,10 +504,28 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:4321/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:4321/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>http://localhost:4321/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:4321/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://clauderaisaro.github.io/post/getting-started/</link>
+      <link>http://localhost:4321/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://clauderaisaro.github.io/post/getting-started/</guid>
+      <guid>http://localhost:4321/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -530,7 +548,7 @@ $$&lt;/p&gt;
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;&amp;#x2764;&amp;#xfe0f; &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -540,7 +558,7 @@ $$&lt;/p&gt;
 &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;&amp;#x1f469;&amp;zwj;&amp;#x1f4bb; 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -649,9 +667,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://clauderaisaro.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>http://localhost:4321/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://clauderaisaro.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>http://localhost:4321/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -688,7 +706,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://clauderaisaro.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://localhost:4321/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

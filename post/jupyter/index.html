@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +30,7 @@
   <meta name="description" content="Learn how to blog in Academic using Jupyter notebooks">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://clauderaisaro.github.io/post/jupyter/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:4321/post/jupyter/">
 
   
 
@@ -216,44 +216,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144780600-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-144780600-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -263,10 +225,10 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu4e2af440b47df3042a32cac372d284e8_18812_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu4e2af440b47df3042a32cac372d284e8_18812_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu12092490976284828044.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6920639647596606039.png">
 
-  <link rel="canonical" href="https://clauderaisaro.github.io/post/jupyter/">
+  <link rel="canonical" href="http://localhost:4321/post/jupyter/">
 
   
   
@@ -284,10 +246,10 @@
   <meta property="twitter:creator" content="@claude_raisaro">
   
   <meta property="og:site_name" content="CLAUDE RAISARO">
-  <meta property="og:url" content="https://clauderaisaro.github.io/post/jupyter/">
+  <meta property="og:url" content="http://localhost:4321/post/jupyter/">
   <meta property="og:title" content="Display Jupyter Notebooks with Academic | CLAUDE RAISARO">
-  <meta property="og:description" content="Learn how to blog in Academic using Jupyter notebooks"><meta property="og:image" content="https://clauderaisaro.github.io/post/jupyter/featured.png">
-  <meta property="twitter:image" content="https://clauderaisaro.github.io/post/jupyter/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Learn how to blog in Academic using Jupyter notebooks"><meta property="og:image" content="http://localhost:4321/post/jupyter/featured.png">
+  <meta property="twitter:image" content="http://localhost:4321/post/jupyter/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-02-05T00:00:00&#43;00:00">
@@ -316,12 +278,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://clauderaisaro.github.io/post/jupyter/"
+    "@id": "http://localhost:4321/post/jupyter/"
   },
   "headline": "Display Jupyter Notebooks with Academic",
   
   "image": [
-    "https://clauderaisaro.github.io/post/jupyter/featured.png"
+    "http://localhost:4321/post/jupyter/featured.png"
   ],
   
   "datePublished": "2019-02-05T00:00:00Z",
@@ -337,7 +299,7 @@
     "name": "CLAUDE RAISARO",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://clauderaisaro.github.io/images/icon_hu4e2af440b47df3042a32cac372d284e8_18812_192x192_fill_lanczos_center_3.png"
+      "url": "http://localhost:4321/images/icon_hu6920639647596606039.png"
     }
   },
   "description": "Learn how to blog in Academic using Jupyter notebooks"
@@ -673,7 +635,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 313px;">
   <div style="position: relative">
-    <img src="/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/post/jupyter/featured_hu16161786913337606166.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -686,7 +648,7 @@
       <pre><code class="language-python">from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 </code></pre>
-<p><img src="./index_1_0.png" alt="png"></p>
+<p><img alt="png" src="/post/jupyter/index_1_0.png"></p>
 <pre><code class="language-python">print(&quot;Welcome to Academic!&quot;)
 </code></pre>
 <pre><code>Welcome to Academic!
@@ -748,7 +710,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://clauderaisaro.github.io/post/jupyter/&amp;text=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:4321/post/jupyter/&amp;text=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -761,7 +723,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://clauderaisaro.github.io/post/jupyter/&amp;t=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:4321/post/jupyter/&amp;t=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -774,7 +736,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="mailto:?subject=Display%20Jupyter%20Notebooks%20with%20Academic&amp;body=https://clauderaisaro.github.io/post/jupyter/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Display%20Jupyter%20Notebooks%20with%20Academic&amp;body=http://localhost:4321/post/jupyter/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -787,7 +749,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://clauderaisaro.github.io/post/jupyter/&amp;title=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:4321/post/jupyter/&amp;title=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -800,7 +762,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="whatsapp://send?text=Display%20Jupyter%20Notebooks%20with%20Academic%20https://clauderaisaro.github.io/post/jupyter/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Display%20Jupyter%20Notebooks%20with%20Academic%20http://localhost:4321/post/jupyter/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -813,7 +775,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://clauderaisaro.github.io/post/jupyter/&amp;title=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:4321/post/jupyter/&amp;title=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -851,11 +813,11 @@ date: 2019-09-01
     <div class="media author-card content-widget-hr">
       
         
-        <img class="avatar mr-3 avatar-square" src="/author/claude-raisaro/avatar%2010.59.24_hu178e5905739dc174f27bcfae2902f4ab_1145997_270x270_fill_q90_lanczos_center.jpg" alt="Claude Raisaro">
+        <img class="avatar mr-3 avatar-square" src="/author/claude-raisaro/avatar%2010.59.24_hu2372102827769644727.jpg" alt="Claude Raisaro">
       
 
       <div class="media-body">
-        <h5 class="card-title"><a href="https://clauderaisaro.github.io/">Claude Raisaro</a></h5>
+        <h5 class="card-title"><a href="http://localhost:4321/">Claude Raisaro</a></h5>
         <h6 class="card-subtitle">Assistant Professor</h6>
         <p class="card-text">My research interests are in development economics and behavioral economics.</p>
         <ul class="network-icon" aria-hidden="true">
@@ -1024,6 +986,16 @@ date: 2019-09-01
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">
