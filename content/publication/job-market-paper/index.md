@@ -1,10 +1,10 @@
 ---
-abstract: ""
-#This paper studies the role of financial incentives in mitigating harmful norms. Beyond monetary gains, I hypothesize that financial incentives are more powerful when they help justify choices otherwise costly among peers. I test this hypothesis on a high-stakes and widespread harmful behavior in low-income countries: overspeeding. Multiple experiments with 360 motortaxi groups in Uganda show that: (i) drivers' demand for financial incentives to limit speeding increases when the contract can also be used as a justification, (ii) the availability of a justification doubles the effectiveness of the financial incentives, increasing speed limit compliance by 45 percent compared to no incentives, and (iii) labor supply is not affected regardless of the visibility of incentives, while productivity increases more with incentives that help justify one's action with colleagues. My findings highlight how, in the presence of harmful norms, financial incentives can be significantly more powerful than their payoffs effects because they help undermining the behavioral grip of bad norms. 
+abstract: "
+What role do financial incentives play in mitigating harmful peer norms? This paper studies whether financial incentives can be more powerful when they help justify choices that have social image costs among peers. I test this hypothesis in the high-stakes context of road safety in low-income countries. I run multiple experiments with 360 motor taxi drivers in Uganda, offering financial incentives to avoid speeding. First, I provide incentivized evidence that speeding is viewed as admirable among coworkers. In a Demand Experiment, I randomize the visibility of incentives to coworkers and show that (i) drivers are more likely to take up financial incentives when they can be used as justification. In an Impact Experiment, I find that randomly offering visible incentives with justification properties is (ii) twice as effective in promoting compliance with speed regulation relative to private incentives, and (iii) has a positive effect on drivers’ productivity. At least since Coase, economists have considered financial incentives as a tool to reward desirable behavior. This paper illustrates that they can also reduce the social image costs to defy peer norms, achieving the same behavioral change with lower but visible monetary incentives."
 authors:
 - Claude Raisaro
-date: "2023-09-26T00:00:00Z"
-publication_short: "Draft Coming Soon!"
+date: "2023-11-12T00:00:00Z"
+publication_short: "Job Market Paper"
 #external_link: ""
 #image:
 #focal_point: Smart
@@ -13,9 +13,9 @@ publication_short: "Draft Coming Soon!"
 publication_types: ["0"]
 tags: 
 - job market paper
-#links:
-#- name: Draft
-#  url: https://clauderaisaro.github.io/files/jmp_raisaro_draft.pdf
+links:
+- name: PDF
+  url: https://clauderaisaro.github.io/files/jmp_ClaudeRaisaro.pdf
 #- name: NYT Article
 #  url: 
 #- name:  Article (in German)
@@ -28,7 +28,7 @@ tags:
 #  url: https://www.socialscienceregistry.org/trials/10625
 caption: ""
 summary:
-title: "Contracts Justifying Nonconformity: Experimental Evidence from Motortaxi Organizations in Uganda"
+title: "Incentives Justifying Nonconformity: Experimental Evidence from Motortaxi Organizations in Uganda"
 image:
   caption: 'Your Caption Here'
   focal_point: 'Center'  # Optional: ['Smart', 'Center', 'TopLeft', 'Top', 'TopRight', 'Right', 'BottomRight', 'Bottom', 'BottomLeft', 'Left']

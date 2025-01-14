@@ -52,16 +52,12 @@ subtitle = ""
 
 Reach out to me by email:
 
-    claude.raisaro@econ.uzh.ch
-            
-    claude.raisaro@hhs.se
+    claude.raisaro@graduateinstitute.ch
     
 
-Office locations:
+Office location:
 
-- Univerisity of Zurich - Department of Economics, office J06, Schönberggasse 1, Zurich, 8001 Switzerland 
-     
-- Stockholm School of Economics - Department of Economics, office A886, Sveavägen 65, Stockholm, 11350 Sweden
+- Geneva Graduate Institute (IHEID) - Department of International Economics, Maison de la Paix office P1-629, Chem. Eugène-Rigot 2, 1202 Geneva, Switzerland
 
  
 

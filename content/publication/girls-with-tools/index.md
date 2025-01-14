@@ -19,6 +19,8 @@ authors:
 tags:
 - ongoing research
 links:
+- name: PDF
+  url: https://clauderaisaro.github.io/files/extendedabstract_RaisaroMacchi_garages.pdf
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

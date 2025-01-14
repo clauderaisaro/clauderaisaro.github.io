@@ -19,12 +19,13 @@ authors:
 - Claude Raisaro
 tags:
 - ongoing research
-#links:
-#- name: Working Paper
-#  url: https://elisamacchi.github.io/files/RaisaroMajerowicz_preschool_draft_june2023.pdf
+links:
+- name: PDF
+  url: https://clauderaisaro.github.io/files/RaisaroMajerowicz_preschool.pdf
 #- name: Open Science Framework Registry
 #  url: "https://osf.io/byvg3"
 #url_code: ""
 #url_slides: ""
 #url_video: ""
+#url_pdf: "files/RaisaroMajerowicz_preschool.pdf"
 ---
