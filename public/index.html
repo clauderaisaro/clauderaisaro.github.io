@@ -3,69 +3,167 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Claude Raisaro</title>
+<title>Claude Raisaro — Research</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: 'Source Sans 3', sans-serif;
   background: #fafaf8;
   color: #2c2c2a;
+  line-height: 1.7;
+  padding: 2.5rem 1.5rem;
+}
+.container { max-width: 760px; margin: 0 auto; }
+
+/* Header with avatar left, bio right */
+.header {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  padding: 2rem;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e0ddd6;
 }
-.card {
-  text-align: center;
-  max-width: 480px;
-}
+.header-left { flex-shrink: 0; text-align: center; }
 .avatar {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 6px;
-  margin-bottom: 1.5rem;
+  width: 160px; height: 160px;
+  object-fit: cover; border-radius: 6px;
+  margin-bottom: 0.6rem;
 }
-h1 {
-  font-size: 1.8rem;
-  font-weight: 600;
+.header-name {
+  font-family: 'Source Serif 4', serif;
+  font-size: 1.1rem; font-weight: 600;
+}
+.header-role {
+  font-size: 0.85rem; color: #666;
+}
+.header-right {
+  font-size: 0.95rem;
+  text-align: justify;
+}
+.header-right p { margin-bottom: 0.8rem; }
+a { color: #8b6914; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Papers */
+.section-title {
+  font-family: 'Source Serif 4', serif;
+  font-size: 1.3rem; font-weight: 600;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e0ddd6;
+}
+.paper { margin-bottom: 2.5rem; }
+.paper-title {
+  font-family: 'Source Serif 4', serif;
+  font-size: 1.1rem; font-weight: 600;
   margin-bottom: 0.3rem;
 }
-.role {
-  font-size: 1rem;
-  color: #666;
-  margin-bottom: 2rem;
+.paper-authors {
+  font-size: 0.9rem; color: #555;
+  margin-bottom: 0.6rem;
 }
-.message {
-  font-size: 1.05rem;
-  line-height: 1.7;
-  margin-bottom: 1.5rem;
+.abstract {
+  font-size: 0.92rem; color: #444;
+  text-align: justify;
+  margin-bottom: 0.8rem;
 }
-a {
-  color: #b8860b;
-  text-decoration: none;
+.abstract-toggle {
+  font-size: 0.88rem; color: #8b6914;
+  cursor: pointer; border: none; background: none;
+  font-family: inherit; padding: 0;
 }
-a:hover {
-  text-decoration: underline;
+.abstract-toggle:hover { text-decoration: underline; }
+.abstract-text { display: none; margin-top: 0.5rem; }
+.abstract-text.open { display: block; }
+.pdf-link {
+  display: inline-block;
+  font-size: 0.88rem;
+  color: #8b6914;
+  border: 1px solid #8b6914;
+  padding: 0.25rem 0.8rem;
+  border-radius: 3px;
+  margin-top: 0.3rem;
 }
-.construction {
+.pdf-link:hover { background: #8b6914; color: #fff; text-decoration: none; }
+.footer {
+  margin-top: 3rem; padding-top: 1.5rem;
+  border-top: 1px solid #e0ddd6;
+  text-align: center;
+  font-size: 0.85rem; color: #999;
   font-style: italic;
-  color: #999;
-  font-size: 0.9rem;
+}
+
+/* Mobile: stack avatar above bio */
+@media (max-width: 600px) {
+  .header { flex-direction: column; align-items: center; text-align: center; }
+  .header-right { text-align: justify; }
 }
 </style>
 </head>
 <body>
-<div class="card">
-  <img class="avatar" src="author/claude-raisaro/avatar.jpg" alt="Claude Raisaro">
-  <h1>Claude Raisaro</h1>
-  <p class="role">Assistant Professor of Economics<br>Geneva Graduate Institute (IHEID)</p>
-  <p class="message">
-    Visit my faculty page:<br>
-    <a href="https://www.graduateinstitute.ch/faculty/claude-raisaro">www.graduateinstitute.ch/faculty/claude-raisaro</a>
-  </p>
-  <p class="construction">Personal website under construction</p>
+<div class="container">
+
+  <div class="header">
+    <div class="header-left">
+      <img class="avatar" src="author/claude-raisaro/avatar.jpg" alt="Claude Raisaro">
+      <p class="header-name">Claude Raisaro</p>
+      <p class="header-role">Assistant Professor</p>
+      <p class="header-role">Geneva Graduate Institute</p>
+    </div>
+    <div class="header-right">
+      <p>I am an Assistant Professor in Economics at the Geneva Graduate Institute <a href="https://www.graduateinstitute.ch/faculty/claude-raisaro">IHEID</a> and a research affiliate at the <a href="https://www.graduateinstitute.ch/cfd">Centre for Finance and Development</a>. I am also affiliated to the <a href="https://www.hhs.se/en/research/institutes/misum-startpage/">House of Sustainable Society</a> at Stockholm School of Economics.</p>
+      <p>I work at the intersection of development and behavioral economics. My research focuses on how social norms influence the functioning of markets.</p>
+    </div>
+  </div>
+
+  <h2 class="section-title">Working Papers</h2>
+
+  <div class="paper">
+    <p class="paper-title">Hidden Discrimination in Frictional Labor Markets</p>
+    <p class="paper-authors">with <a href="https://www.emacchi.com/">Elisa Macchi</a> (Submitted)</p>
+    <div class="abstract">
+      <button class="abstract-toggle" onclick="toggle(this)">+ Abstract</button>
+      <div class="abstract-text">
+        This paper shows that frictions shape the set of worker attributes employers value. When those attributes carry identity connotations, changes in the friction environment affect hiring disparities. Through this channel, frictions can hide discrimination. We test for gender discrimination among 921 employers in male-dominated Ugandan manufacturing sectors. Employers perceive women as more trustworthy but worry about harassment risk, two attributes related to common monitoring and cooperation frictions. In an experiment where employers select from a pool of trainees for probationary hire, we randomly assign monitoring support targeting either worker misbehavior or workplace safety. Under business-as-usual conditions, men are selected at rates 10 percentage points higher than women, yet 42% of selected candidates are women, revealing substantial unmet demand. Audits to monitor new workers and prevent stealing widen the hiring gender gap by 62%, concentrated among employers with the strongest stated preferences for hiring women. Audits to prevent harassment, instead, close the gender gap. Monitoring frictions mask discrimination: the gender penalty is not driven by statistical discrimination on technical performance, we find no technical performance or trustworthiness differences by gender, and safety concerns can explain at most half of the uncovered penalty. The results provide proof of concept that when multiple distortions coexist, solving one friction can worsen allocative efficiency, consistent with second-best logic. Residual measures of bias depend on which worker attributes are measured and treated as productive, and can both understate and overstate discrimination.
+      </div>
+    </div>
+    <a class="pdf-link" href="files/HiddenDiscrimination_MacchiRaisaro.pdf" target="_blank">PDF</a>
+  </div>
+
+  <div class="paper">
+    <p class="paper-title">Incentives Justifying Nonconformity</p>
+    <div class="abstract">
+      <button class="abstract-toggle" onclick="toggle(this)">+ Abstract</button>
+      <div class="abstract-text">
+        What role do financial incentives play in mitigating harmful peer norms? This paper studies whether financial incentives can be more powerful when they help justify choices that have social image costs among peers. I test this hypothesis in the high-stakes context of road safety in low-income countries. I run multiple experiments with 360 motorcycle taxi drivers in urban Uganda, offering financial incentives to avoid speeding. First, I provide incentivized evidence that peers view speeding as admirable. In a Demand Experiment, I randomize the visibility of incentives to coworkers and show that (i) drivers are more likely to take up financial incentives when they can be used as justification. In an Impact Experiment, I find that randomly offering visible incentives with justification properties (ii) is twice as effective in promoting compliance with speed regulation relative to private incentives, and (iii) increases driver productivity. At least since Coase, economists have considered financial incentives as a tool to reward desirable behavior. This paper illustrates that they can also reduce the social image costs to defy peer norms, achieving the same behavioral change with lower but visible monetary incentives.
+      </div>
+    </div>
+    <a class="pdf-link" href="files/IncentivesJustify_Raisaro.pdf" target="_blank">PDF</a>
+  </div>
+
+  <div class="paper">
+    <p class="paper-title">The Effect of a Preschool Expansion on Early Learning Outcomes in Peru</p>
+    <p class="paper-authors">with <a href="https://gobierno.uniandes.edu.co/stephanie-majerowicz-nieto/">Stephanie Majerowicz</a></p>
+    <div class="abstract">
+      <button class="abstract-toggle" onclick="toggle(this)">+ Abstract</button>
+      <div class="abstract-text">
+        Can public preschool education improve early learning outcomes and narrow socioeconomic gaps in academic performance in developing countries? The paper presents quasi-experimental evidence of the national expansion of public preschools in Peru on learning outcomes. We exploit town-level and within-family variation in exposure to preschool due to the gradual expansion of preschools across Peru. We find that having access to a regular preschool improves second-grade standardized test scores for reading comprehension and mathematics by between 0.05 and 0.12 standard deviations. Exploring mechanisms, we look at two different preschool types rolled out in Peru: regular preschools and community preschools (in which local mothers deliver the service with limited supervision). The assignment of the different types of preschool is based on the number of preschool-aged students in each town, and we exploit discontinuities in this assignment rule through a regression discontinuity design. We find some evidence that being assigned to a preschool with a trained teacher and proper infrastructure has a positive impact on student learning for students in towns near the cut-off compared to those assigned to community schools. Finally, we find that despite contributions to learning, having access to preschool appears to widen rather than close socioeconomic gaps in early achievement, suggesting that complementary measures targeting the poorest students are necessary for greater educational equity.
+      </div>
+    </div>
+    <a class="pdf-link" href="files/Preschool_MajerowiczRaisaro.pdf" target="_blank">PDF</a>
+  </div>
+
+
 </div>
+
+<script>
+function toggle(btn) {
+  var text = btn.nextElementSibling;
+  text.classList.toggle('open');
+  btn.textContent = text.classList.contains('open') ? String.fromCharCode(8722) + ' Abstract' : '+ Abstract';
+}
+</script>
 </body>
 </html>
